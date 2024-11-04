@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ixutiige.github.io/acf/sitemap_index.txt
+Sitemap: https://ixutiige.github.io/ank/sitemap_index.txt
+Sitemap: https://ixutiige.github.io/voD/sitemap_index.txt
+Sitemap: https://ixutiige.github.io/wPh/sitemap_index.txt
